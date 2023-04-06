@@ -36,7 +36,7 @@ class LaptopAdmin(admin.ModelAdmin):
     list_display = ('Productid','Brandname','Modelname','Os','Colour','Price')
 ```
 ## OUTPUT:
-![ot](./images/r1.jpg)
+![output](myproj/static/images/r1.jpg)
 ![ot1](./images/r2.jpg)
 
 ## RESULT
