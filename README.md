@@ -37,10 +37,8 @@ class LaptopAdmin(admin.ModelAdmin):
 ```
 ## OUTPUT:
 
-![ot1](/myproj/static/images/r2.jpg)
-
-![output](/myproj/images/r1.jpg)
-
+![r2](https://user-images.githubusercontent.com/122069938/230361271-aea11efa-b88b-4325-a93c-9d152d7713fa.jpg)
+![r1](https://user-images.githubusercontent.com/122069938/230361290-8f9bda0f-563e-457d-8b01-9c7da7e9b666.jpg)
 
 ## RESULT
 Thus we developed a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
