@@ -37,7 +37,7 @@ class LaptopAdmin(admin.ModelAdmin):
 ```
 ## OUTPUT:
 
-![ot1](/myproj/images/r2.jpg)
+![ot1](/myproj/static/images/r2.jpg)
 
 ![output](/myproj/images/r1.jpg)
 
