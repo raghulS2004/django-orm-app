@@ -36,9 +36,14 @@ class LaptopAdmin(admin.ModelAdmin):
     list_display = ('Productid','Brandname','Modelname','Os','Colour','Price')
 ```
 ## OUTPUT:
+<<<<<<< HEAD
 ![ot1](/myproj/images/r2.jpg)
 
 ![output](/myproj/images/r1.jpg)
+=======
+![output](./images/r1.jpg)
+![ot1](./images/r2.jpg)
+>>>>>>> e3aac8bb62e834e3002e9762fd900de06b10c810
 
 ## RESULT
 Thus we developed a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
